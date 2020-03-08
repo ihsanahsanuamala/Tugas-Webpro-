@@ -68,7 +68,7 @@
                     </span>
                 </div>
                 <span class="photo__likes">45 likes</span>
-                <span class="caption">inthetiger</span> Manchester United Keren Parah !
+                <span class="caption">inthetiger</span> Manchester United Keren  !
                 </br></br></br>
 
                 <ul class="photo__comments">
